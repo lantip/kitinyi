@@ -14,7 +14,6 @@ from kiti import bikin
 
 
 app = Flask(__name__, template_folder="example", static_folder="example")
-app.config.from_pyfile('settings.cfg')
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 
 
