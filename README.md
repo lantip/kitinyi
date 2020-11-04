@@ -14,6 +14,17 @@ Installation
 - `cd kitinyi`
 - Run `python kiti.py -t "text yang ingin diubah"`
 
+API & Demo
+---
+API tersedia di [sini](https://kitinyi.herokuapp.com)
+
+Contoh penggunaan seperti ini [https://kitinyi.herokuapp.com/?q=hanya kekeliruan teknis administratif](https://kitinyi.herokuapp.com/?q=hanya%20kekeliruan%20teknis%20administratif)
+
+
+Versi Bahasa Pemrograman Lain
+---
+- Golang - terbikin oleh [Fahmi Ahmad](https://github.com/khofesh/kitinyi-go)
+
 
 Thanks To
 ---
